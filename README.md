@@ -11,7 +11,9 @@ This project performs Exploratory Data Analysis (EDA) on Amazon sales data to un
 This project analyzes Diwali season sales data to identify customer purchasing patterns using Python. The focus is on gender-based purchasing, age demographics, product categories, and regional trends using percentage-based insights.
 
 =============================================
+
 📁 Dataset:
+=
 File: Diwali Sales Data.csv
 
 Encoding: Unicode Escape
