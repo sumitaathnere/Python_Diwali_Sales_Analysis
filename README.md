@@ -76,8 +76,10 @@ Jupyter Notebook – analysis environment
 
 ============================================
 
-📬 Contact If you have any questions, feedback, or suggestions, feel free to reach out! 
+📬 Contact 
 =
+If you have any questions, feedback, or suggestions, feel free to reach out! 
+
 😊 Email: sumitaathnere7@gmail.com
 
 ⭐ Enjoy Exploring the Diwali Sales Data with Python and Jupyter Notebook! 🚀
